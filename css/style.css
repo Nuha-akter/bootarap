@@ -1,0 +1,155 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.btn-light {
+    padding: 10px 18px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #4CAF4F;
+}
+
+.btn-success {
+    padding: 10px 18px;
+    background-color: #4CAF4F;
+    font-size: 14px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.hero-text > h1 {
+    font-size: 64px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.hero-text > h1 span {
+    color: #4CAF4F;
+}
+
+.hero-text > p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #717171;
+}
+
+.hero-text button {
+    padding: 14px 28px;
+    background-color: #4CAF4F;
+    color: #FFFFFF;
+}
+/* hero end */
+
+.membership-cntent h2 {
+    padding: 18px 20px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #4D4D4D;
+    line-height: 36px;
+}
+
+.membership-cntent p {
+    font-size: 12px;
+    font-weight: 400;
+    color:#717171 ;
+    line-height: 20px;
+}
+
+.national-association-content h2 {
+    padding: 18px 20px;
+    font-size: 45px;
+    font-weight: 700;
+    color: #4D4D4D;
+    line-height: 36px;
+}
+
+.national-association-content p {
+    font-size: 12px;
+    font-weight: 400;
+    color:#717171 ;
+    line-height: 20px;
+}
+
+.clubs-and-groups-content h2 {
+    padding: 18px 20px;
+    font-size: 45px;
+    font-weight: 700;
+    color: #4D4D4D;
+    line-height: 36px;
+}
+
+.clubs-and-groups-content p {
+    font-size: 12px;
+    font-weight: 400;
+    color:#717171 ;
+    line-height: 20px;
+}
+
+.pixelgrade-section h2 {
+    font-size: 36px;
+    font-weight: 600;
+    color: #4D4D4D;
+    line-height: 44px;
+}
+
+.pixelgrade-section p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #717171;
+    line-height: 20px;
+}
+
+.design-section p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #717171;
+    line-height: 24px;
+}
+
+.design-section h4 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #4CAF4F;
+    line-height: 28px;
+}
+
+.design-section h6 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #89939E;
+    line-height: 24px;
+}
+
+.caring-section h2 {
+    font-size: 36px;
+    font-weight: 600;
+    color: #4D4D4D;
+    line-height: 44px;
+}
+
+.caring-section p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #717171;
+    line-height: 24px;
+}
+
+.suscript-section h2 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #263238;
+    line-height: 76px;
+}
+
+.footer-section h6 {
+    font-size: 14px;
+    font-weight: 400;
+    color: #f5f7fa;
+    line-height: 20px;
+}
+
+
+
+
+
+
